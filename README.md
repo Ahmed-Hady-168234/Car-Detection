@@ -2,4 +2,4 @@
 
 Image proccessing project using python OpenCv 
 
-This project detectes a cars and creates a rectangle around the car 
+Image proccessing course project, it detectes the cars and creates a rectangle around it
